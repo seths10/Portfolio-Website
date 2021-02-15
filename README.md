@@ -1,8 +1,5 @@
 # Portfolio-Website
 
-Portfolio Website 
-========================
-
 This is my personal website that contains information about me
 
 ===========================
